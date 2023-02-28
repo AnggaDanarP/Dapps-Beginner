@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate-Simple-Dapps",
+  "version": "1.0.0",
+  "description": "Simple Dapps for beginner",
+  "main": "index.js",
+  "author": "DOT Indonesia",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
